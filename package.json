@@ -1,0 +1,24 @@
+{
+    "name": "@vendeka/tailwindcss-custom-groups",
+    "description": "A TailwindCSS plugin that adds custom groups.",
+    "main": "index.js",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vendeka-nl/tailwindcss-custom-groups.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vendeka-nl/tailwindcss-custom-groups/issues"
+    },
+    "homepage": "https://github.com/vendeka-nl/tailwindcss-custom-groups#readme",
+    "keywords": [
+        "tailwindcss-plugin",
+        "tailwindcss",
+        "plugin"
+    ],
+    "author": "Vendeka",
+    "license": "Proprietary",
+    "dependencies": {
+        "tailwindcss": "^2.0.0"
+    }
+}
