@@ -7,7 +7,6 @@ module.exports = plugin(({ addVariant, theme, e }) => {
         addVariant(newGroup, ({ container, separator }) => {
             container.walkRules(rule => {
                 rule.selector = `.${newGroup} .${newGroup}${e(separator)}${rule.selector.slice(1)}`;
-                console.log(rule.selector);
             });
         });
     });
