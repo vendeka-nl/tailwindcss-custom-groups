@@ -9,7 +9,7 @@ We got you covered. Just bring your own logic!
 Install the plugin from GitHub:
 
 ```sh
-npm install git+https://github.com/vendeka-nl/tailwindcss-custom-groups.git
+npm install @vendeka-nl/tailwindcss-custom-groups
 ```
 
 ## Configuration
