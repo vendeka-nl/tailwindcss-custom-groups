@@ -1,5 +1,7 @@
 # Custom groups for TailwindCSS 
 
+![npm (scoped)](https://img.shields.io/npm/v/@vendeka/tailwindcss-custom-groups)
+
 Need a fixed header after scrolling? Or perhaps you want to toggle classes upon clicking a button.
 
 We got you covered. Just bring your own logic!
