@@ -8,7 +8,7 @@ We got you covered. Just bring your own logic!
 
 ## Installation
 
-Install the plugin from GitHub:
+Install the plugin from NPM:
 
 ```sh
 npm install @vendeka-nl/tailwindcss-custom-groups
