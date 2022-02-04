@@ -11,7 +11,7 @@ We got you covered. Just bring your own logic!
 Install the plugin from NPM:
 
 ```sh
-npm install @vendeka-nl/tailwindcss-custom-groups
+npm install @vendeka/tailwindcss-custom-groups
 ```
 
 ## Configuration
